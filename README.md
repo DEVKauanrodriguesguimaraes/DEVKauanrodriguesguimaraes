@@ -2,9 +2,6 @@
 ## Estou cursando Engenharia de Software pela Uninter
 ## Conecte-se comigo: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/kauan-rodrigues-guimar%C3%A3es/) 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram)](https://www.instagram.com/kauan18rodrigues/)
-
-[![GitHub](https://img.shields.io/badge/GitHbt-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEVKauanrodriguesguimaraes) 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:kauan18rodrigues@outlook.com)
 
